@@ -1,6 +1,10 @@
 # Maze Documentation
 This repository holds the documentation for Clojure Project Maze.
 
+Hosted on ReadTheDocs: [![Documentation Status](https://readthedocs.org/projects/maze-documentation/badge/?version=latest)](https://maze-documentation.readthedocs.io/en/latest/?badge=latest)
+
+Please visit: https://maze-documentation.readthedocs.io/en/latest/
+
 ## Building the document
 First, install Python 3 and execute the command below.
 ```
